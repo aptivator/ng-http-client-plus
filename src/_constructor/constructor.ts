@@ -9,8 +9,6 @@ export class HttpClientPlus {
   delete;
   put;
   patch;
-  head;
-  jsonp;
   
   constructor(private http: HttpClient) {}
 }
