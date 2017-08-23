@@ -9,6 +9,9 @@ export class HttpClientPlus {
   delete;
   put;
   patch;
+  getToken;
+  setToken;
+  removeToken;
   
   constructor(private http: HttpClient) {}
 }

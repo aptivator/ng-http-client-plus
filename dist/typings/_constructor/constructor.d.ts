@@ -1,4 +1,4 @@
-import { HttpClient } from '@angular/common/http';
+import {HttpClient} from '@angular/common/http';
 export declare class HttpClientPlus {
   private http;
   init: any;
@@ -7,7 +7,8 @@ export declare class HttpClientPlus {
   delete: any;
   put: any;
   patch: any;
-  head: any;
-  jsonp: any;
+  getToken: any;
+  setToken: any;
+  removeToken: any;
   constructor(http: HttpClient);
 }
