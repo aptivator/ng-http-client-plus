@@ -1,1 +1,1 @@
-# ng-http-plus
+# ng-http-client-plus

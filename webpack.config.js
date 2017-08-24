@@ -7,13 +7,13 @@ module.exports = {
     extensions: ['.ts', '.js']
   },
 
-  entry: './src/ng-http-plus.ts',
+  entry: './src/ng-http-client-plus.ts',
 
   output: {
     path: './dist',
     publicPath: '/',
-    filename: 'ng-http-plus.umd.js',
-    library: 'ngHttpPlus',
+    filename: 'ng-http-client-plus.umd.js',
+    library: 'ngHttpClientPlus',
     libraryTarget: 'umd'
   },
 

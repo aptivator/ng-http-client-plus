@@ -1,20 +1,20 @@
 {
-  "name": "ng-http-plus",
+  "name": "ng-http-client-plus",
   "version": "0.5.0",
   "description": "Wrapped http methods for use with token-based authentication",
-  "main": "dist/ng-http-plus.umd",
-  "typings": "dist/typings/ng-http-plus.d",
-  "module": "src/ng-http-plus",
+  "main": "dist/ng-http-client-plus.umd",
+  "typings": "dist/typings/ng-http-client-plus.d",
+  "module": "src/ng-http-client-plus",
   "scripts": {
     "build": "webpack",
     "test": "npm run build && karma start"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unitedsolutions/ng-http-plus.git"
+    "url": "https://github.com/unitedsolutions/ng-http-client-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/unitedsolutions/ng-http-plus/issues"
+    "url": "https://github.com/unitedsolutions/ng-http-client-plus/issues"
   },
   "author": "Dmitriy A. Nesterkin",
   "license": "MIT",
