@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/token-remover/token-remover.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO;IACZ,cAAc,CAAC,UAAU,CAAC,IAAI,CAAC,OAAO,CAAC,SAAS,CAAC,CAAC;AACpD,CAAC","file":"token-remover.js","sourceRoot":"","sourcesContent":["export default function() {\n  sessionStorage.removeItem(this.configs.tokenName);  \n}\n"]}

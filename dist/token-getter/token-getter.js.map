@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/token-getter/token-getter.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO;IACZ,MAAM,CAAC,cAAc,CAAC,OAAO,CAAC,IAAI,CAAC,OAAO,CAAC,SAAS,CAAC,CAAC;AACxD,CAAC","file":"token-getter.js","sourceRoot":"","sourcesContent":["export default function() {\n  return sessionStorage.getItem(this.configs.tokenName);  \n}\n"]}
