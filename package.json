@@ -3,7 +3,7 @@
   "version": "0.5.1",
   "description": "Wrapped http methods for use with token-based authentication",
   "main": "dist/ng-http-client-plus.umd",
-  "typings": "dist/typings/ng-http-client-plus.d",
+  "typings": "dist/ng-http-client-plus.d",
   "module": "dist/ng-http-client-plus.js",
   "scripts": {
     "build": "npm run clean && npm run ngc && npm run bundle",
