@@ -1,6 +1,6 @@
 {
   "name": "ng-http-client-plus",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Wrapped http methods for use with token-based authentication",
   "main": "dist/ng-http-client-plus.umd",
   "typings": "dist/typings/ng-http-client-plus.d",
