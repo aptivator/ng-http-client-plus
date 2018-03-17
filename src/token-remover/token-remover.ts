@@ -1,3 +1,3 @@
 export default function() {
-  sessionStorage.removeItem(this.configs.tokenName);  
+  sessionStorage.removeItem(this.configs.tokenName);
 }
