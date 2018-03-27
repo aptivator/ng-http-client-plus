@@ -1,7 +1,7 @@
 {
   "name": "ng-http-client-plus",
-  "version": "0.5.1",
-  "description": "Wrapped http methods for use with token-based authentication",
+  "version": "0.5.2",
+  "description": "Angular's augmented http methods for use with token-based authentication",
   "main": "dist/ng-http-client-plus.umd",
   "typings": "dist/ng-http-client-plus.d",
   "module": "dist/ng-http-client-plus.js",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unitedsolutions/ng-http-client-plus.git"
+    "url": "https://github.com/aptivator/ng-http-client-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/unitedsolutions/ng-http-client-plus/issues"
+    "url": "https://github.com/aptivator/ng-http-client-plus/issues"
   },
   "author": "Dmitriy A. Nesterkin",
   "license": "MIT",
